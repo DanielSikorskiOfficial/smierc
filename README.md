@@ -1,0 +1,2 @@
+# smierc
+Strona o śmierci.
